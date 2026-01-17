@@ -28,7 +28,7 @@
 ### 🌐 Conecte-se comigo
 
 <div>
-   <a href="https://cv-allan.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/-Curr%C3%ADculo-339933?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+   <a href="https://curriculo-allan.pages.dev/" target="_blank"><img src="https://img.shields.io/badge/-Curr%C3%ADculo-339933?style=for-the-badge&logo=linkedin&logoColor=white"></a>
    <a href="https://www.linkedin.com/in/allandeyvson/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
    <a href="https://instagram.com/_allansg" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
    <a href="mailto:allan.developer@hotmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
