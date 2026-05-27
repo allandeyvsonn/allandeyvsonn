@@ -3,7 +3,7 @@
 
 ### 🚀 Sobre mim
 - 🎓 Formado em **Telemática - IFPB**
-- 👨‍💻 Desenvolvedor **Junior**
+- 👨‍💻 Desenvolvedor Node.js + React **JR/PL**
 - 📚 Full Stack
   
 ---
